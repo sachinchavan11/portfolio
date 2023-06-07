@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  
 }
 
 .App-logo {
@@ -36,4 +35,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.wrapper.one {
+  background-color: #1a1a1a;
+}
+.drop-main {
+  display: flex;
+  font-size: 20px;
+  margin: 0.2rem;
+  justify-content: center;
+  font-family: "Russo One", sans-serif;
+}
+.d {
+  opacity: 0;
+  animation: 0.4s linear forwards;
+  color: #00ffff;
 }

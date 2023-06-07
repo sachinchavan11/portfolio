@@ -5,6 +5,7 @@
 @layer base { 
     body {
         @apply font-[Raleway];
+        background-color: #5d7eaf;
     }
     li {
         @apply px-4;
@@ -16,11 +17,12 @@
     background-size: cover;
     background-position: center;
     height: 250px;
+    background-color: rgb(63, 81, 129);
 }
 .content-div:hover {
     background-image: linear-gradient(
         to right,
-        rgba(112, 157, 255, 0.8),
-        hsla(242, 74%, 61%, 0.8)   
+        rgba(110, 121, 145, 0.8),
+        hsla(240, 7%, 83%, 0.8)   
     )!important;
 }
