@@ -129,7 +129,7 @@ function Navbar() {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://drive.google.com/file/d/1zWQ9jyDMgt2C7bJx5M5u29zL3xz0wDJE/view?usp=sharing"
+              href="https://drive.google.com/file/d/1qZCMGzFJCFEchCoWA_JSEOcDuVx86GU1/view?usp=drive_link"
             >
             
               Resume <BsFillPersonLinesFill size={30} />
